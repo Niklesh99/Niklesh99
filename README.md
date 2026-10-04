@@ -34,7 +34,7 @@ I build hardware-aware ML systems, from cycle-level kernel tuning to deploying f
 | 🚚 **DMA & memory optimization** | Single/double-buffered transfers; theoretical vs. achieved cycle analysis |
 | 🧩 **Custom device operators** | Native convolution, deformable convolution and arithmetic kernels in C++/Python |
 | 🔁 **ONNX custom operators** | Custom ops in ONNX Runtime (x86) plus a symbolic-mapping bridge between PyTorch and ONNX |
-| 🧠 **LLM / VLM bring-up** | Text and multimodal models integrated into vLLM, served on GCP/GKE |
+| 🧠 **LLM / VLM bring-up** | Text and multimodal models integrated into vLLM/Inference Servers |
 
 ## 🧰 Tech
 
