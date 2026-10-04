@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/ml-banner.svg" alt="From SIMD kernels to LLM inference" width="100%">
-
 ```text
         ✨        🧠  ∑  ∇  ⚡        ✨
    🧢
@@ -23,7 +21,7 @@
 
 ## 🧭 About
 
-I build hardware-aware ML systems, from cycle-level kernel tuning to deploying full models for inference on custom accelerators. 4+ years across DSPs, runtimes and inference servers.
+I build hardware-aware ML systems, from cycle-level kernel tuning to deploying full models with high efficiency for inference on custom accelerators. 4+ years across DSPs, runtimes and inference servers.
 
 ## 🔧 What I work on
 
